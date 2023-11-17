@@ -14,8 +14,8 @@
 
 <h2>🖥️ Software Devlopment:</h2>
 
-- <b>Java Devlopment</b>
-  - [Photo Editing and Manipulation Tool](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Graphic User Interface with MVC (Model, View, Controller)</b>
+  - [Photo Editing and Manipulation Tool in Java](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2> 🤳 Connect with me:</h2>
 
