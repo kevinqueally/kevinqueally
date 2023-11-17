@@ -2,6 +2,8 @@
 
 <h2>🤖 Data Science and Machine Learning:</h2>
 
+- <b> Natural Language Processing</b>
+  - [Salary Classification using NLP: Leads ROI Estimation](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Supervised Machine Learning</b>
   - [Classification Comparison: Logistic Regression vs Convolutional Neural Network](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Model Feature Selection and Various Regression](https://github.com/joshmadakor1/EncrypterPOC)
